@@ -1,5 +1,5 @@
-import { Car } from "../interfaces/car.interface"
-import ItemModel from "../models/items"
+/*import { Car } from "../interfaces/expediente.interface"
+import ItemModel from "../models/expediente"
 
 
 
@@ -10,3 +10,4 @@ const getOrders = async () => {
 
 
 export {getOrders}
+*/
